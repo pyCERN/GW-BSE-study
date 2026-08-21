@@ -1,0 +1,6 @@
+*/output
+*/pseudo
+*/*.png
+*/*.bands*
+**/.DS_Store
+docs/*.md

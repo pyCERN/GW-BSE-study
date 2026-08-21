@@ -1,5 +1,4 @@
 from ase.build import bulk
-from ase.dft.kpoints import bandpath
 
 si = bulk('Si', 'diamond', a=5.431)
 # path = si.cell.bandpath(path="LGXKG", npoints=80)
