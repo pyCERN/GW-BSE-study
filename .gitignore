@@ -1,9 +1,10 @@
 */output
 */pseudo
-*.png
 *.bands
 *.gnu
 *.rap
 *.out
+WFN
+WFNq
 **/.DS_Store
 docs/*.md
